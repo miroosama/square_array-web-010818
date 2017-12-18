@@ -1,7 +1,7 @@
 def square_array(array)
   # your code here
   new_numbers = []
-  array.each do
+  array.each 
     new_numbers.push(x **2)
 
   end
