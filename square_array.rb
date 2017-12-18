@@ -2,8 +2,8 @@ def square_array(array)
   # your code here
   new_numbers = []
   array.each do
-    push(x **2)
+    new_numbers.push(x **2)
     
   end
-
+return new_numbers
 end
